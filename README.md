@@ -17,4 +17,4 @@
   * siteWeb 
   * API Commande
   * API Ingredient 
-  ( les modules sont vides, la conception des modules n'étant pas demandé dans ce projet ) 
+  * ( les modules sont vides, la conception des modules n'étant pas demandé dans ce projet ) 
